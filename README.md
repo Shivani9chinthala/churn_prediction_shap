@@ -33,8 +33,9 @@ This project builds a **machine learning model** to predict employee churn and u
 ## 📊 Key Visuals
 
 ### 🔹 Global Feature Importance (SHAP Beeswarm Plot)
-<img src="images/<img width="866" height="497" alt="shap_beeswarm" src="https://github.com/user-attachments/assets/691b708f-8ae0-4d69-a3ab-ff003f63a198" />
-" width="600">
+
+/<img width="866" height="497" alt="shap_beeswarm" src="https://github.com/user-attachments/assets/691b708f-8ae0-4d69-a3ab-ff003f63a198" />
+
 
 **The SHAP Beeswarm Plot shows which features have the highest overall impact on predicting employee attrition.
 
@@ -44,8 +45,9 @@ This project builds a **machine learning model** to predict employee churn and u
 *Red = pushes towards higher attrition probability
 
 *Blue = pushes towards lower attrition probability
+
 ### 🔹 Local Explanation (Force Plot Example)
-*(Interactive version available in notebook)*  
+
 <img width="860" height="180" alt="shap_froce_example" src="https://github.com/user-attachments/assets/7ccb76ab-3d53-4529-9924-549440df4388" />
 
 

@@ -38,12 +38,16 @@ This project builds a **machine learning model** to predict employee churn and u
 
 **The SHAP Beeswarm Plot shows which features have the highest overall impact on predicting employee attrition.
 
+
 *OverTime, TotalWorkingYears, and YearsAtCompany were among the most influential.
+
 *Red = pushes towards higher attrition probability
+
 *Blue = pushes towards lower attrition probability
 ### 🔹 Local Explanation (Force Plot Example)
 *(Interactive version available in notebook)*  
-<img src="images/shap_force_example.png" width="600">
+<img width="860" height="180" alt="shap_froce_example" src="https://github.com/user-attachments/assets/7ccb76ab-3d53-4529-9924-549440df4388" />
+
 
 **The SHAP Force Plot breaks down why the model predicted attrition for one employee:
 
